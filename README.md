@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="icon.svg" width="96" alt="Any KAREOKIE">
+  <img src="icon.svg" width="96" alt="MicNook">
 </p>
 
-<h1 align="center">Any KAREOKIE</h1>
+<h1 align="center">MicNook</h1>
 
 <p align="center">
   親愛的，我把在家唱K變簡單了。<br>
@@ -10,9 +10,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Gargion/any-kareokie-releases/releases/latest"><b>⬇ 下載最新版</b></a>
+  <a href="https://github.com/Gargion/micnook-releases/releases/latest"><b>⬇ 下載最新版</b></a>
   &nbsp;·&nbsp;
-  <a href="https://any-kareokie.io">官網</a>
+  <a href="https://micnook.com">官網</a>
   &nbsp;·&nbsp;
   <a href="#english">English</a>
 </p>
@@ -21,19 +21,19 @@
 
 ## 下載哪一個檔案？
 
-打開[最新版](https://github.com/Gargion/any-kareokie-releases/releases/latest)，在 **Assets** 下載：
+打開[最新版](https://github.com/Gargion/micnook-releases/releases/latest)，在 **Assets** 下載：
 
 | 檔案 | 給誰 |
 |---|---|
-| **`AnyKareokie_<版本>_Setup.exe`** | ✅ **第一次安裝請下載這個**（約 7 MB，有安裝畫面） |
-| `AnyKareokie_<版本>_x64-setup.exe` | App 自動更新用的，一般不用下載 |
+| **`MicNook_<版本>_Setup.exe`** | ✅ **第一次安裝請下載這個**（約 7 MB，有安裝畫面） |
+| `MicNook_<版本>_update.exe`（0.1.3 以前叫 `_x64-setup.exe`） | App 自動更新用的，一般不用下載 |
 | `runtime-*` 標籤裡的檔案 | AI 元件，App 第一次開啟時會自己下載，**不用手動下載** |
 
 已經裝好的電腦會自動更新，不必再回來這裡。
 
 ## 安裝
 
-1. 執行 `AnyKareokie_<版本>_Setup.exe`，按「安裝」。裝在你自己的帳號下，不需要系統管理員權限。
+1. 執行 `MicNook_<版本>_Setup.exe`，按「安裝」。裝在你自己的帳號下，不需要系統管理員權限。
 2. 第一次開啟時，App 會自動下載 AI 元件（約 940 MB，只下載一次；斷線會從斷點接著下載）。下載期間可以先逛逛，匯入新歌要等元件齊全。
 3. 接上麥克風，貼上 YouTube 網址，開唱。
 
@@ -77,9 +77,9 @@ App 右下角帳號按鈕 →「我的帳號」→「這台電腦」→「回報
 
 ## English
 
-**Any KAREOKIE** is an AI karaoke app for Windows. Paste a YouTube link — it separates the vocals, syncs the lyrics word by word, and scores your pitch in real time.
+**MicNook** is an AI karaoke app for Windows. Paste a YouTube link — it separates the vocals, syncs the lyrics word by word, and scores your pitch in real time.
 
-**Download:** open the [latest release](https://github.com/Gargion/any-kareokie-releases/releases/latest) and get **`AnyKareokie_<version>_Setup.exe`**. The `_x64-setup.exe` file is used by auto-update, and the `runtime-*` files are AI components the app downloads by itself on first launch (about 940 MB, once).
+**Download:** open the [latest release](https://github.com/Gargion/micnook-releases/releases/latest) and get **`MicNook_<version>_Setup.exe`**. The `_update.exe` file (`_x64-setup.exe` up to 0.1.3) is used by auto-update, and the `runtime-*` files are AI components the app downloads by itself on first launch (about 940 MB, once).
 
 **Requirements:** Windows 10/11 (64-bit) and a microphone. An NVIDIA GPU makes song processing fastest but is not required.
 
